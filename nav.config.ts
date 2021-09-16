@@ -14,7 +14,7 @@ const c: IConfig = {
   showGithub: true,
 
   // 您的网站地址，有利于SEO
-  homeUrl: 'https://lbt.ink',
+  homeUrl: 'https://dh.520.fo',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
